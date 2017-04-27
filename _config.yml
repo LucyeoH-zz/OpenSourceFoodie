@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Open Source Foodie
 description: A collection of maps to delicious food and drink all around the world. 
+show_downloads: "false"
+
