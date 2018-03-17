@@ -1,5 +1,15 @@
 
-### Find a Restaurant
+# Food Maps
+
+<strong>Canada:</strong> 
+* Toronto, Ontario
+* [Montreal, Quebec](https://www.google.com/maps/d/embed?mid=13ntUIlg44NEtydvMuuO3fji7mBE)
+* [Halifax, Nova Scotia](https://www.google.com/maps/d/u/0/embed?mid=1lP7JdOGXgRPOaWKyrZLzHIaujzU)
+
+<strong>USA: </strong> 
+* [Austin, Texas](https://www.google.com/maps/d/u/0/embed?mid=1u98nhgQ5rw4iyAjaRJOjnpkC7tlJjJoM)
+* [Nashville, Tennessee](https://www.google.com/maps/d/u/0/embed?mid=1KCWherzN1dR_FPgj6kaHRS2BonY)
+* [Big Island, Hawaii](https://www.google.com/maps/d/u/0/embed?mid=1d1pj4gw6iIueb9BUGlErr-e7lxc)
 
 ## Montreal, Quebec 
 
@@ -10,7 +20,7 @@
 ## Austin, Texas 
 
 <center>
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1u98nhgQ5rw4iyAjaRJOjnpkC7tlJjJoM" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1u98nhgQ5rw4iyAjaRJOjnpkC7tlJjJoM" width="100%" height="480"></iframe>
 </center>
 
 ## Halifax, Nova Scotia 
@@ -25,7 +35,7 @@
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1d1pj4gw6iIueb9BUGlErr-e7lxc" width="100%" height="480"></iframe>
 </center>
 
-## Nashville, Tenesee 
+## Nashville, Tennessee 
 
 <center>
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1KCWherzN1dR_FPgj6kaHRS2BonY" width="100%" height="480"></iframe>
