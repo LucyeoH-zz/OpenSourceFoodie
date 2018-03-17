@@ -12,14 +12,6 @@
 * [Big Island, Hawaii](https://www.google.com/maps/d/u/0/embed?mid=1d1pj4gw6iIueb9BUGlErr-e7lxc)
 
 ## Montreal, Quebec 
-
-<ul class="thumbnails">
- <li class="span2">
-<a href="#" target="frame" class="click_iframe">Click Here To View Map</a>
-<div class="frame_div"><iframe name="frame" src="https://www.google.com/maps/d/embed?mid=13ntUIlg44NEtydvMuuO3fji7mBE" width="100%" height="480"></iframe></div>
-</li>
-</ul>
-
 <center>
 <iframe src="https://www.google.com/maps/d/embed?mid=13ntUIlg44NEtydvMuuO3fji7mBE" width="100%" height="480"></iframe>
 </center>
