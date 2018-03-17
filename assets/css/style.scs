@@ -2,3 +2,24 @@
 ---
 
 @import "{{ site.theme }}";
+
+.frame_div{
+border:solid 1px blue;
+    width:300px;
+    display:none;
+}
+
+
+.frame_div iframe{
+    height:200px;
+    width:300px;
+    background:green;
+}
+
+.click_iframe{
+display:inline-block;
+    vertical-align:top;
+}
+.click_iframe:focus + div{
+display:block;
+}
