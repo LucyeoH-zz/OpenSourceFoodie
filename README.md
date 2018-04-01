@@ -2,7 +2,7 @@
 # Food Maps
 
 <strong>Canada:</strong> 
-* Toronto, Ontario
+* [Toronto, Ontario](https://drive.google.com/open?id=1C-b22YRoNklNYw3a5AjsE888hRMrhX0T&usp=sharing)
 * [Montreal, Quebec](https://www.google.com/maps/d/embed?mid=13ntUIlg44NEtydvMuuO3fji7mBE)
 * [Halifax, Nova Scotia](https://www.google.com/maps/d/u/0/embed?mid=1lP7JdOGXgRPOaWKyrZLzHIaujzU)
 
@@ -10,6 +10,11 @@
 * [Austin, Texas](https://www.google.com/maps/d/u/0/embed?mid=1u98nhgQ5rw4iyAjaRJOjnpkC7tlJjJoM)
 * [Nashville, Tennessee](https://www.google.com/maps/d/u/0/embed?mid=1KCWherzN1dR_FPgj6kaHRS2BonY)
 * [Big Island, Hawaii](https://www.google.com/maps/d/u/0/embed?mid=1d1pj4gw6iIueb9BUGlErr-e7lxc)
+
+## Toronto, Ontario 
+<center>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1C-b22YRoNklNYw3a5AjsE888hRMrhX0T" width="100%" height="480"></iframe>
+</center>
 
 ## Montreal, Quebec 
 <center>
